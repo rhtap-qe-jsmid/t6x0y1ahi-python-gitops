@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t6x0y1ahi-python-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/t6x0y1ahi-python
